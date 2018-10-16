@@ -1,0 +1,16 @@
+{
+  "name": "ejemplo",
+  "version": "1.0.0",
+  "description": "MEAN stack example",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node app"
+  },
+  "author": "Blas",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
